@@ -11,7 +11,7 @@ ENV NODE_ENV='production'
 ENV LOG_LEVEL='info'
 
 # ENV PUBLIC_SERVER_URL='https://nearmev5.quanlabs.com/parse'
-ENV PUBLIC_SERVER_URL='http://strategex.co.za/parse'
+ENV PUBLIC_SERVER_URL='https://strategex.co.za/parse'
 ENV APP_NAME='Nearme V5'
 
 # Use random.org to generate a random string for the APP_ID and MASTER_KEY
